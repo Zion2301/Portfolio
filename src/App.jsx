@@ -40,6 +40,12 @@ function App() {
               </div>
              </div>
           </nav>
+
+          <div className="introdiv">
+            <p className='hello'>Hello !!!</p>
+            <p className='name'>Im Zion Omogbeme</p>
+            <p className='role'>An Aspriring Data Scientist</p>
+          </div>
         </div>
        </section>
     </>

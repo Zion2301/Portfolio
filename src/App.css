@@ -56,6 +56,7 @@
 .menu {
   color: white;
   font-size: 25px;
+  display: none;
 
 }
 
@@ -107,5 +108,9 @@ ul {
 .menudiv {
   position: relative;
   z-index: 3000;
+}
+
+.hello {
+  color: white;
 }
 
